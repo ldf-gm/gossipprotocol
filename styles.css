@@ -1,0 +1,53 @@
+html, body{
+	font-family: poppins, sans-serif;
+    font-style: normal;
+    font-size: 14;
+    font-weight: 250;
+	line-height:1.4;
+	margin:0 auto;
+	max-width:860px;
+	height: 100%;
+}
+H1, H2, H3 {
+    font-family: poppins, sans-serif;
+    font-style: normal;
+    font-size: 14;
+    font-weight: 250;
+	line-height:1.4;
+	margin:0 auto;
+	max-width:860px;
+	height: 100%;
+}
+.center{
+	text-align: center;
+}
+.intro{
+	font-size:4em;
+    width: 500px;
+}
+.max { 
+    display: block;
+    width: 860px;
+    word-wrap: break-word;
+}
+.bg1{
+	background-color: #FFCAD5;
+}
+.bg2{
+	background-color: #FFCAD5;
+}
+a{
+	color: #000000;
+}
+.container {
+    width: 800px;
+    height: 100%;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+span.line{
+  color: #252F29;
+}
+.cursor{
+    cursor: url(https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/2728.png), auto;
+}
