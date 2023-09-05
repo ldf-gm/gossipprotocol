@@ -8,6 +8,7 @@ html, body{
 	max-width:860px;
 	height: 100%;
 }
+
 H1, H2, H3 {
     font-family: poppins, sans-serif;
     font-style: normal;
@@ -21,20 +22,22 @@ H1, H2, H3 {
 .center{
 	text-align: center;
 }
-.intro{
-	font-size:4em;
-    width: 500px;
-}
-.max { 
-    display: block;
-    width: 860px;
-    word-wrap: break-word;
-}
 .bg1{
 	background-color: #FFCAD5;
 }
 .bg2{
 	background-color: #FFCAD5;
+}
+.intro{
+	font-size:4em;
+    width: 70%;
+    height: auto;
+}
+}
+.max { 
+    display: block;
+    width: 860px;
+    word-wrap: break-word;
 }
 a{
 	color: #000000;
